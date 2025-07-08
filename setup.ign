@@ -24,16 +24,5 @@
         ]
       }
     ]
-  },
-  "storage": {
-    "files": [
-      {
-        "contents": {
-          "source": "data:,%5Bconnection%5D%0Aid%3Dfirst%0Atype%3Dethernet%0A%5Bethernet%5D%0A%5Bipv4%5D%0Aaddress1%3D192.168.0.71%2F24%2C192.168.0.1%0Adns%3D192.168.0.89%0Amethod%3Dmanual%0A%5Bipv6%5D%0Aaddr-gen-mode%3Ddefault%0Amethod%3Ddisabled%0A"
-        },
-        "mode": 384,
-        "path": "/etc/NetworkManager/system-connections/first.nmconnection"
-      }
-    ]
   }
 }
