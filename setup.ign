@@ -11,9 +11,7 @@
       {
         "groups": [
           "wheel",
-          "plugdev",
-          "sudo",
-          "docker"
+          "sudo"
         ],
         "homeDir": "/home/jason",
         "name": "jason",
@@ -22,6 +20,17 @@
         "sshAuthorizedKeys": [
           "ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABgQCg28kCh0tgZz4C9vE65l6jboLe85Etm9LkBXU0hGfh6O1gERKsg5CN8aadh6hncsCu3R06Gya3AfnGPH08T2JNi0co/3FGmzUem25xk7/OXXWKAVMFQA6VeaQDPjIWsvEipilcdPKzqZfw3AqmlOEM6bJaPy7pK1iItZFOI3aLWSEndncM2jnC/lHp+uJKQbA2xEPrCab8pBa4ecO9XL+DnOzkaXjncAV4WiovaQ0hysppQOJGrxeZeZCcDICxT3lF87hx6ZRhGe+/sdioKwYWyZZIIS471JJQfUP023Eo0PZAXV9i5V/ixLn4lvMh+lIZpI1MPxGjD8BySMRxEq24GT3Cl0UKkd59wLqo68/rKXbimxnHBp8uJaFQ9INjDKnAwN788AxyzR/zXsucEKWZ+4+1Z0JKUrQB57t49YI8zirv3H12hl5b0jCbznA0Rzn8KNXJldbK1aYw1TZNba+YygEEO73cVQY+3ZVWwvnCpjWjZn/zyDUN7T4qa7RhqJ8="
         ]
+      }
+    ]
+  },
+  "storage": {
+    "files": [
+      {
+        "contents": {
+          "source": "data:,%5Bconnection%5D%0Aid%3Dfirst%0Atype%3Dethernet%0A%5Bethernet%5D%0A%5Bipv4%5D%0Aaddress1%3D192.168.0.71%2F24%2C192.168.0.1%0Adns%3D192.168.0.89%0Amethod%3Dmanual%0A%5Bipv6%5D%0Aaddr-gen-mode%3Ddefault%0Amethod%3Ddisabled%0A"
+        },
+        "mode": 384,
+        "path": "/etc/NetworkManager/system-connections/first.nmconnection"
       }
     ]
   }
